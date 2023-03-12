@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(255, 102, 0);
+    display: flex;
+    justify-content:center;
+    height: 70px;
+    font-weight:bolder;
+}
+div {
+ color:rgb(235, 140, 16);
+ display: flex;
+  justify-content:center;
+ height: 30px;
+ font-weight:900;
+}
+    html {
+        background-image: url(https://4.bp.blogspot.com/-Q7ISHTOKShc/V1W_iS2ZjvI/AAAAAAAABJg/yb0zHqEB7cwCLxhsVr3RVSXInKQnv50HgCLcB/s1600/03543738.jpg);
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+
